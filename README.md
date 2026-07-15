@@ -1,4 +1,4 @@
-# 💻 TechFix - Serwis Komputerowy
+s# 💻 TechFix - Serwis Komputerowy
 
 ![TechFix Logo](images/logo.png)
 
@@ -97,7 +97,9 @@ cd TechFix-Portfolio
 3. Otwórz:
 index.html
 
-🔧 Możliwe ulepszenia
+---
+
+# 🔧 Możliwe ulepszenia
 
 Projekt można rozbudować o:
 
@@ -109,9 +111,11 @@ system zgłoszeń serwisowych,
 integrację z API,
 backend w Node.js/PHP.
 
-📸 Dodanie własnych zdjęć
+---
 
-Zdjęcia realizacji znajdują się w:
+# 📸 Dodanie własnych zdjęć
+
+Zdjęcia realizacji należy dodać w:
 
 images/
 
@@ -121,7 +125,6 @@ repair1.jpg
 repair2.jpg
 repair3.jpg
 
-Można je zastąpić własnymi grafikami.
 
 Logo powinno znajdować się tutaj:
 
@@ -133,12 +136,16 @@ PNG
 512x512 px
 przezroczyste tło
 
-👨‍💻 Autor
+---
+
+# 👨‍💻 Autor
 
 Projekt wykonany jako portfolio frontendowe.
 
 Technologie:
 HTML • CSS • JavaScript
 
-⭐ Jeśli projekt Ci się podoba, zostaw gwiazdkę na GitHubie.
+---
+
+# ⭐ Jeśli projekt Ci się podoba, zostaw gwiazdkę na GitHubie.
 
