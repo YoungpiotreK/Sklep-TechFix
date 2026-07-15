@@ -1,7 +1,5 @@
 # 💻 TechFix - Serwis Komputerowy
 
-![TechFix Logo](img/logo.png)
-
 Nowoczesna strona internetowa dla fikcyjnego serwisu komputerowego **TechFix**.  
 Projekt został wykonany jako portfolio frontendowe, prezentujące możliwości tworzenia responsywnych stron internetowych z wykorzystaniem HTML, CSS oraz JavaScript.
 
