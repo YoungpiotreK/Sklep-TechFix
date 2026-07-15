@@ -1,4 +1,4 @@
-s# 💻 TechFix - Serwis Komputerowy
+# 💻 TechFix - Serwis Komputerowy
 
 ![TechFix Logo](images/logo.png)
 
